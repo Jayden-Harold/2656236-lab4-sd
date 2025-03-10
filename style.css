@@ -48,5 +48,9 @@ h1{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  height: 40%;
+  font-size: 12px;
+}
+
+#submitButton:hover{
+    cursor: pointer;
 }
