@@ -1,4 +1,4 @@
-document.getElementById("search-btn").addEventListener("click", () => {
+document.getElementById("submitButton").addEventListener("click", () => {
     const countryName = document.getElementById("country-input").value;
     if (!countryName) return alert("Please enter a country name.");
 
