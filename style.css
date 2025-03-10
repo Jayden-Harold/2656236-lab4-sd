@@ -10,17 +10,12 @@ body{
 
 header{
     margin: 0 auto;
-    align-items: center;
+    text-align: center;
     background-color: #000c7b;
     border-radius: 4px;
 }
 
 h1{
-    margin: 0 auto;
-    text-align: center;
-}
-
-.header-p{
     margin: 0 auto;
     text-align: center;
 }
