@@ -9,8 +9,11 @@ body{
 }
 
 header{
-    text-align: center;
+    align-items: center;
     background-color: #000c7b;
     border-radius: 4px;
 }
 
+h1{
+    align-items: center;
+}
