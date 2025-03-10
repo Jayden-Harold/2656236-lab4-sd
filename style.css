@@ -37,7 +37,7 @@ h1{
 }
 
 .submitButton{
-    background-color: var(--darkblue); /* Green */
+    background-color: var(--darkblue);
   border: none;
   color: white;
   padding: 15px 32px;
