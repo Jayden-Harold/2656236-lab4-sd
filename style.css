@@ -9,11 +9,13 @@ body{
 }
 
 header{
+    margin: 0 auto;
     align-items: center;
     background-color: #000c7b;
     border-radius: 4px;
 }
 
 h1{
-    align-items: center;
+    margin: 0 auto;
+    text-align: center;
 }
